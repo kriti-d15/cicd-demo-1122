@@ -33,13 +33,14 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
-						<username>bookmyshowkriti</username>
-						<password>Abcd@1234</password>
-						<applicationName>hello-world-app-kriti151996</applicationName>
-						<environment>dev</environment>
+						<username>kduggal1507</username>
+						<password>Learning@123</password>
+						<applicationName>hello-world-app-kriti1596</applicationName>
+						<environment>Sandbox</environment>
 						<region>us-east-2</region>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
+						<objectStoreV2>true</objectStoreV2>
 						<properties>
 							<http.port>8081</http.port>
 						</properties>
